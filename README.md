@@ -1,4 +1,4 @@
-👋 Hi, I’m @MalikaRattan
+# 👋 Hi, I’m Malika
 👀 I’m interested in computer science, AI, and machine learning.
 🌱 I’m currently learning about holograms and their applications in AI.
 💞️ I’m looking to collaborate on AI projects, open-source contributions, and innovative tech solutions.
